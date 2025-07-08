@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Olwethu Sigwela. I am a software developer based in Johannesburg, South Africa.
+I'm Olwethu Sigwela. I'm a software developer based in Johannesburg, South Africa.
 
 🚀 I'm currently working on [Selenium Database](https://seleniumdatabase.co.za/)
 
