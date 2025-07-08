@@ -4,11 +4,15 @@ I'm Olwethu Sigwela. I am a software developer based in Johannesburg, South Afri
 
 🚀 I'm currently working on [Selenium Database](https://seleniumdatabase.co.za/)
 
-📫 You can reach me at olwethusigwela22@gmail.com
+📃 [My resume](https://olwethusigwela.vercel.app/olwethu-sigwela-resume.pdf)
 
 🌐 [My website](https://olwethusigwela.vercel.app/)
 
 🤝 [My LinkedIn](https://www.linkedin.com/in/olwethu-sigwela-264074180/)
+
+📫 You can reach me at olwethusigwela22@gmail.com
+
+
 
 <!--
 **olwethu-sigwela/olwethu-sigwela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
