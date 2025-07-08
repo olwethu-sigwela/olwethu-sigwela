@@ -6,7 +6,9 @@ I'm Olwethu Sigwela. I am a software developer based in Johannesburg, South Afri
 
 📫 You can reach me at olwethusigwela22@gmail.com
 
-🌐 My website: [olwethusigwela.vercel.app](https://olwethusigwela.vercel.app/)
+🌐 [My website](https://olwethusigwela.vercel.app/)
+
+🤝 [My LinkedIn](https://www.linkedin.com/in/olwethu-sigwela-264074180/)
 
 <!--
 **olwethu-sigwela/olwethu-sigwela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
