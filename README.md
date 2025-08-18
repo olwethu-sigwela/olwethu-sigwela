@@ -2,7 +2,7 @@
 
 I'm Olwethu Sigwela. I'm a software developer based in Johannesburg, South Africa.
 
-🚀 I'm currently working on [Selenium Database](https://seleniumdatabase.co.za/)
+🚀 I'm currently working on [uMoya](https://umoya.vercel.app/)
 
 📃 [My resume](https://olwethusigwela.vercel.app/olwethu-sigwela-resume.pdf)
 
